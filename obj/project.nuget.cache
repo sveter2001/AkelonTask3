@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1SzZ0uohpkuABk5Qc6ZR4KBzpoTspuKY+W2ooGT3Xii9X9H+TjgSUFx5Eaoz42gTdMzl8c1Pn6p25n+3V55d4w==",
+  "success": true,
+  "projectFilePath": "G:\\12\\Проекты\\PracticTask3\\PracticTask3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svete\\.nuget\\packages\\documentformat.openxml\\3.0.0\\documentformat.openxml.3.0.0.nupkg.sha512",
+    "C:\\Users\\svete\\.nuget\\packages\\documentformat.openxml.framework\\3.0.0\\documentformat.openxml.framework.3.0.0.nupkg.sha512",
+    "C:\\Users\\svete\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512",
+    "C:\\Users\\svete\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
